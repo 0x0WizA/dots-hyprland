@@ -24,5 +24,12 @@ if status is-interactive # Commands to run in interactive sessions can go here
     alias ls 'eza --icons'
     alias pamcan pacman
     alias q 'qs -c ii'
+    alias i 'sudo pacman -S'
+    alias u 'sudo pacman -Syu'
+    alias y 'yay -S' 
+    alias d 'Sudo rm -rf'
+
+
+
     
 end
