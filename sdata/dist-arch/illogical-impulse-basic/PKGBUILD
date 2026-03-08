@@ -19,7 +19,7 @@ depends=(
   keepassxc
   discord
   spotify-launcher
-  vesktop-bin
+  brave-bin
   # Used in install script
   rsync
   go-yq # https://github.com/mikefarah/yq
