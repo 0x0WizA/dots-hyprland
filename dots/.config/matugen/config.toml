@@ -36,3 +36,7 @@ output_path = '~/.local/state/quickshell/user/generated/wallpaper/path.txt'
 [templates.nvim]
 input_path = "~/.config/matugen/templates/nvim-colors.vim"
 output_path = "~/.config/nvim/colors/matugen.vim"
+
+[templates.vesktop]
+input_path = "~/.config/matugen/templates/vesktop/vesktop.css"
+output_path = "~/.config/vesktop/themes/matugen.css"
